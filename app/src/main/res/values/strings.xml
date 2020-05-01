@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherShortList</string>
+    <string name="prognoza_meteo_5_zile">Prognoza meteo 5 zile</string>
+</resources>
